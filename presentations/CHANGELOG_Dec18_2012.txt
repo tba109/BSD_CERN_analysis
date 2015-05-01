@@ -1,0 +1,22 @@
+Tyler Anderson Mon Dec 17 09:08:32 EST 2012
+
+Changes made to the BSD CERN analysis presentation
+
+Slide 1: Changed date to 18th
+Slide 2: Added "oscilloscope area measurements"
+Slide 2: Changed "Pe" to "PE"
+Slide 2: Add note that p2 is fixed parameter
+Slide 3: Added "oscilloscope area measurements"
+Slide 3: Changed "electron" to "pion"
+Slide 3: Changed "three" to "two"
+Slide 3: Add note that p2 is fixed parameter
+Slide 3: Changed 450 ns to 4500 ns
+
+TODO: How does ROOT calculate chi^2/ndf
+
+Slide 4: Bullet 3, subpoint 4: Changed "for" to "to remove"
+Slide 5: Added run details
+Slide 6: Better wording on bullet 3, subpoint 2
+Slide 8: Improved wording
+Slide 8: Use log y scale
+Slide 9: Improved wording in many places quite a bit. Split into another slide (Slide 10).
